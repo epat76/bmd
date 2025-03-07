@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/broc/static/js/main.64be8555.js",
+    "main.js": "/broc/static/js/main.d2764461.js",
     "static/js/453.ca28c4fa.chunk.js": "/broc/static/js/453.ca28c4fa.chunk.js",
     "index.html": "/broc/index.html",
-    "main.64be8555.js.map": "/broc/static/js/main.64be8555.js.map",
+    "main.d2764461.js.map": "/broc/static/js/main.d2764461.js.map",
     "453.ca28c4fa.chunk.js.map": "/broc/static/js/453.ca28c4fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.64be8555.js"
+    "static/js/main.d2764461.js"
   ]
 }
